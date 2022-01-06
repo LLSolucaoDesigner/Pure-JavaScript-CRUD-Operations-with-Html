@@ -1,6 +1,4 @@
 # Pure-JavaScript-CRUD-Operations-with-Html
-Operações CRUD de JavaScript puro com Html - Pure JavaScript CRUD Operations with Html
-# Pure-JavaScript-CRUD-Operations-with-Html
 Pure JavaScript CRUD Operations with Html
   
 Content discussed : 
