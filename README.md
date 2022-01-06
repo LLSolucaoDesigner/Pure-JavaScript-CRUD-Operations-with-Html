@@ -6,12 +6,6 @@ Content discussed :
 - HTML Form Validation
 - HTML Table CRUD Operations
 
-## Get the Code
-
-```
-$ git clone https://github.com/CodAffection/Pure-JavaScript-CRUD-Operations-with-Html.git
-```
-
  ## How it works ?
  
  :tv: Video tutorial on this same topic  
